@@ -1,6 +1,6 @@
 # 开发
-yarn global add parcel-bundler
-parcel src/index.html
+<pre>yarn global add parcel-bundler
+parcel src/index.html</pre>
 
 # build 命令
-yarn build
+<pre>yarn build</pre>
