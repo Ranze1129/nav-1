@@ -151,9 +151,10 @@ cursor: default;
     background-color:rgba(255,255,255,0.7);
 }
 @media(max-width: 380px){
-    .siteList .site {
+    .siteList .addButton {
         width:150px;}
 }
+
 @media(min-width: 500px){
     .siteList .addButton {
         filter: drop-shadow(1mm 3mm 1mm rgb(255,255,255));
